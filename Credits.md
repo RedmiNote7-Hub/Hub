@@ -4,4 +4,4 @@ Heartfelt thanks to [Pix106](https://github.com/pix106), [LineageOS](https://git
 
 Special thanks to [Pix106](https://github.com/pix106) and [Santhosh](https://github.com/user-why-red) for their outstanding work on the kernel.
 
-With deep appreciation, I thank [Arijit Saha](https://github.com/Arijit78), [Aeoniixx](https://github.com/Aeoniixx), [SirRGB](https://github.com/SirRGB),[ZabukaZuzu](https://github.com/yusufnoor786) and [Shiralenduo](https://github.com/hung303xd) for their continued support and valuable assistance.
+With deep appreciation, I thank [Arijit Saha](https://github.com/Arijit78), [Aeoniixx](https://github.com/Aeoniixx), [SirRGB](https://github.com/SirRGB), [ZabukaZuzu](https://github.com/yusufnoor786), [Vhmit](https://gitjub.com/Vhmit) and [Shiralenduo](https://github.com/hung303xd) for their continued support and valuable assistance.
