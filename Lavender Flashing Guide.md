@@ -23,7 +23,7 @@
 - Coming from **any other ROM** (including **retrofit-based ROMs**):  
   - Perform a **clean flash** using the steps below.  
   - If OrangeFox doesn’t show all wipe options like *system*, *vendor*, etc.:
-    - Flash **OrangeFox 4.4**
+    - Flash **[OrangeFox 4.4](https://orangefox.download/release/67fa0a9e131d9489806e5529)**
     - Wipe everything except *storage*
     - Then flash **OrangeFox 4.19** again
 
